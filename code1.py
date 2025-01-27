@@ -1,3 +1,5 @@
+# Q1. Write a program to demonstrate basic data type in python.
+
 name=input("Enter your name: ")
 age=int(input("Enter your age: "))
 salary=int(input("Enter your salary: "))
