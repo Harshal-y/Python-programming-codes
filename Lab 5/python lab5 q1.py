@@ -5,4 +5,3 @@ while counter < 5:
     counter += 1
 else:
     print("While loop has finished executing.")
-
